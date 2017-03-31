@@ -1,6 +1,5 @@
 ### How form loading works in different conditions
-
-#### A new panel is created with default layout then layout of panel is set to koalalayout:
+A new panel is created with default layout then layout of panel is set to koalalayout:
 
 1. `AbstractLayoutSupport.initialize(context, null, false)`
    * `clean()`: creates a clean code structure and assigns it to `setLayoutCode` instance  variable: `setLayoutCode = layoutContext.getCodeStructure().createCodeGroup()`.  
