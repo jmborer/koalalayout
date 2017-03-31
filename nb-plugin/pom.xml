@@ -17,7 +17,7 @@
         <dependency>
             <groupId>net.java.dev.koalalayout</groupId>
             <artifactId>koalalayout</artifactId>
-            <version>1.2-SNAPSHOT</version>
+            <version>1.0.5</version>
         </dependency>
         <!-- Netbeans API dependencies -->
         <dependency>

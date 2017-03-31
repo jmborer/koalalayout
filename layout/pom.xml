@@ -9,7 +9,7 @@
     </parent>
     -->
     <groupId>net.java.dev.koalalayout</groupId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.0.5</version>
     <artifactId>koalalayout</artifactId>
 
     <name>${project.artifactId} - ${project.version}</name>
